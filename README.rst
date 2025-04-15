@@ -31,7 +31,10 @@ Usage is simple:
         'http://python-tablib.org',
         'http://httpbin.org',
         'http://python-requests.org',
-        'http://fakedomain/',
+        'http://shesfreaky.com/',
+'hytp://xhamster.com/',
+http://Thumbzilla.com/',
+https://Pornhub.com/',
         'http://kennethreitz.com'
     ]
 
